@@ -1,5 +1,7 @@
 # Notes Application
 
+![Notes App Logo](images/Notesapp.jpeg)
+
 ## Overview
 The Notes Application is a simple web-based application that allows users to create, view, and delete notes. It features a clean and responsive design, with support for light and dark themes.
 
